@@ -1,0 +1,18 @@
+import 'package:flutter/material.dart';
+
+const KLabelTextStyle = TextStyle(
+  decoration: TextDecoration.none,
+  color: Color(0xFF8D8E98),
+  fontSize: 20.0,
+  fontWeight: FontWeight.bold,
+);
+
+const KActiveColor = Color(0xFF1B1E33);
+const KCntainerColor = Color(0xFF2224E3);
+const KInactiveColor = Color(0xFF915f5f);
+const KButtomContainerHeight = 60.0;
+
+const KFontWeight = TextStyle(
+  fontWeight: FontWeight.w700,
+  fontSize: 50,
+);
